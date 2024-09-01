@@ -64,7 +64,8 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under a custom license. You can use, modify, and distribute this software only if you have obtained explicit permission from the author. For permission or inquiries, please contact [Rayen Nasser](mailto:rayenn38@example.com).
+
 
 ## Contact
 
