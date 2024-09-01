@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Rayen-nasser/Black-Tower-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Rayen-nasser/black-tower-frontend.git
